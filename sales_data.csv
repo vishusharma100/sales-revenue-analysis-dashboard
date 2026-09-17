@@ -1,0 +1,251 @@
+Order_ID,Order_Date,Product,Category,Region,Sales,Quantity,Discount,Profit,Customer_Segment,Payment_Mode
+ORD10210,2025-01-01,Keyboard,Accessories,West,5976.0,4,0.17,698.76,Corporate,Cash
+ORD10173,2025-01-01,Headphones,Accessories,East,9625.0,5,0.23,1111.88,Consumer,Debit Card
+ORD10030,2025-01-01,Monitor,Electronics,East,24080.0,2,0.14,4275.6,Consumer,Debit Card
+ORD10077,2025-01-03,Monitor,Electronics,South,12880.0,1,0.08,2301.6,Corporate,Credit Card
+ORD10130,2025-01-04,Monitor,Electronics,East,11900.0,1,0.15,2110.5,Corporate,UPI
+ORD10150,2025-01-04,Smartwatch,Wearables,East,17640.0,3,0.16,3477.6,Home Office,Credit Card
+ORD10024,2025-01-05,Smartwatch,Wearables,North,29750.0,5,0.15,5871.25,Home Office,Cash
+ORD10226,2025-01-05,Smartphone,Electronics,East,58800.0,2,0.16,10416.0,Corporate,Credit Card
+ORD10116,2025-01-06,Monitor,Electronics,South,41160.0,3,0.02,7396.2,Corporate,Cash
+ORD10146,2025-01-06,Tablet,Electronics,North,95700.0,5,0.13,17011.5,Home Office,UPI
+ORD10076,2025-01-07,Smartphone,Electronics,West,68600.0,2,0.02,12327.0,Consumer,Cash
+ORD10057,2025-01-08,Smartwatch,Wearables,East,21000.0,4,0.25,4095.0,Consumer,Cash
+ORD10010,2025-01-08,Smartphone,Electronics,East,93450.0,3,0.11,16647.75,Home Office,Debit Card
+ORD10185,2025-01-10,Laptop,Electronics,West,195000.0,4,0.25,34125.0,Corporate,UPI
+ORD10033,2025-01-12,Monitor,Electronics,South,10640.0,1,0.24,1864.8,Home Office,Credit Card
+ORD10189,2025-01-13,Tablet,Electronics,East,66880.0,4,0.24,11721.6,Consumer,Credit Card
+ORD10098,2025-01-13,Monitor,Electronics,West,45360.0,4,0.19,8005.2,Consumer,Debit Card
+ORD10067,2025-01-14,Monitor,Electronics,West,13580.0,1,0.03,2438.1,Consumer,UPI
+ORD10239,2025-01-14,Headphones,Accessories,North,2250.0,1,0.1,266.25,Home Office,UPI
+ORD10073,2025-01-14,Laptop,Electronics,East,117000.0,2,0.1,20865.0,Consumer,Cash
+ORD10085,2025-01-15,Tablet,Electronics,West,91300.0,5,0.17,16153.5,Corporate,Debit Card
+ORD10169,2025-01-20,Tablet,Electronics,East,20240.0,1,0.08,3616.8,Consumer,Debit Card
+ORD10028,2025-01-22,Smartphone,Electronics,North,29400.0,1,0.16,5208.0,Consumer,Credit Card
+ORD10244,2025-01-23,Laptop,Electronics,East,200200.0,4,0.23,35139.0,Home Office,Debit Card
+ORD10096,2025-01-25,Mouse,Accessories,East,873.0,1,0.03,104.35,Corporate,UPI
+ORD10100,2025-01-25,Keyboard,Accessories,West,1746.0,1,0.03,208.71,Consumer,Credit Card
+ORD10159,2025-01-26,Laptop,Electronics,South,60450.0,1,0.07,10812.75,Home Office,UPI
+ORD10054,2025-01-26,Monitor,Electronics,West,53760.0,4,0.04,9643.2,Home Office,UPI
+ORD10088,2025-01-28,Laptop,Electronics,West,52000.0,1,0.2,9165.0,Corporate,UPI
+ORD10068,2025-01-28,Laptop,Electronics,South,150150.0,3,0.23,26354.25,Corporate,Credit Card
+ORD10141,2025-01-31,Smartwatch,Wearables,North,30450.0,5,0.13,6021.75,Home Office,UPI
+ORD10036,2025-02-03,Keyboard,Accessories,South,3528.0,2,0.02,422.28,Corporate,Debit Card
+ORD10109,2025-02-03,Mouse,Accessories,West,819.0,1,0.09,97.06,Consumer,Credit Card
+ORD10209,2025-02-04,Mouse,Accessories,East,4230.0,5,0.06,503.55,Consumer,Credit Card
+ORD10144,2025-02-05,Smartwatch,Wearables,South,24080.0,4,0.14,4757.2,Home Office,Credit Card
+ORD10177,2025-02-07,Headphones,Accessories,West,4250.0,2,0.15,498.75,Corporate,Debit Card
+ORD10199,2025-02-07,Keyboard,Accessories,North,5400.0,4,0.25,621.0,Home Office,Credit Card
+ORD10090,2025-02-08,Smartphone,Electronics,South,92400.0,3,0.12,16443.0,Consumer,Cash
+ORD10142,2025-02-09,Laptop,Electronics,North,243750.0,5,0.25,42656.25,Home Office,Debit Card
+ORD10233,2025-02-11,Monitor,Electronics,South,25200.0,2,0.1,4494.0,Home Office,Debit Card
+ORD10114,2025-02-11,Mouse,Accessories,East,3645.0,5,0.19,424.58,Consumer,Debit Card
+ORD10002,2025-02-12,Monitor,Electronics,West,55440.0,4,0.01,9970.8,Home Office,Cash
+ORD10035,2025-02-15,Mouse,Accessories,South,2565.0,3,0.05,305.78,Home Office,Debit Card
+ORD10172,2025-02-16,Keyboard,Accessories,North,5184.0,3,0.04,618.84,Consumer,Debit Card
+ORD10043,2025-02-16,Smartphone,Electronics,South,27650.0,1,0.21,4866.75,Home Office,Debit Card
+ORD10051,2025-02-17,Tablet,Electronics,West,54120.0,3,0.18,9563.4,Corporate,Credit Card
+ORD10022,2025-02-20,Keyboard,Accessories,East,4536.0,3,0.16,531.36,Home Office,Credit Card
+ORD10047,2025-02-25,Smartwatch,Wearables,West,20370.0,3,0.03,4064.55,Consumer,UPI
+ORD10065,2025-02-25,Tablet,Electronics,East,17820.0,1,0.19,3144.9,Corporate,Cash
+ORD10213,2025-03-01,Keyboard,Accessories,West,5238.0,3,0.03,626.13,Home Office,Credit Card
+ORD10052,2025-03-02,Mouse,Accessories,East,3600.0,5,0.2,418.5,Home Office,UPI
+ORD10020,2025-03-02,Headphones,Accessories,South,9600.0,4,0.04,1146.0,Home Office,UPI
+ORD10155,2025-03-03,Keyboard,Accessories,East,6840.0,5,0.24,788.4,Corporate,Debit Card
+ORD10229,2025-03-03,Laptop,Electronics,South,252200.0,4,0.03,45279.0,Home Office,Cash
+ORD10245,2025-03-04,Tablet,Electronics,West,38720.0,2,0.12,6890.4,Corporate,Debit Card
+ORD10102,2025-03-08,Smartphone,Electronics,North,28700.0,1,0.18,5071.5,Corporate,Cash
+ORD10101,2025-03-09,Tablet,Electronics,West,64680.0,3,0.02,11622.6,Corporate,Debit Card
+ORD10203,2025-03-10,Tablet,Electronics,North,86900.0,5,0.21,15295.5,Consumer,Cash
+ORD10128,2025-03-11,Laptop,Electronics,West,54600.0,1,0.16,9672.0,Corporate,Credit Card
+ORD10040,2025-03-14,Headphones,Accessories,South,8300.0,4,0.17,970.5,Consumer,Cash
+ORD10149,2025-03-16,Laptop,Electronics,North,289250.0,5,0.11,51528.75,Home Office,Debit Card
+ORD10208,2025-03-17,Monitor,Electronics,East,47600.0,4,0.15,8442.0,Corporate,UPI
+ORD10228,2025-03-19,Mouse,Accessories,South,855.0,1,0.05,101.92,Corporate,Debit Card
+ORD10069,2025-03-19,Monitor,Electronics,East,48720.0,4,0.13,8660.4,Corporate,UPI
+ORD10037,2025-03-19,Monitor,Electronics,South,67900.0,5,0.03,12190.5,Home Office,UPI
+ORD10113,2025-03-24,Smartwatch,Wearables,South,5250.0,1,0.25,1023.75,Home Office,Cash
+ORD10192,2025-03-25,Headphones,Accessories,North,6600.0,3,0.12,778.5,Consumer,Debit Card
+ORD10093,2025-03-27,Smartphone,Electronics,East,31150.0,1,0.11,5549.25,Home Office,Debit Card
+ORD10234,2025-03-30,Monitor,Electronics,South,12460.0,1,0.11,2219.7,Corporate,Debit Card
+ORD10231,2025-03-30,Mouse,Accessories,West,819.0,1,0.09,97.06,Home Office,Cash
+ORD10174,2025-03-31,Monitor,Electronics,West,22120.0,2,0.21,3893.4,Consumer,Cash
+ORD10025,2025-04-02,Monitor,Electronics,South,10640.0,1,0.24,1864.8,Corporate,UPI
+ORD10018,2025-04-03,Smartwatch,Wearables,North,11060.0,2,0.21,2167.9,Consumer,UPI
+ORD10154,2025-04-04,Headphones,Accessories,South,11625.0,5,0.07,1381.88,Consumer,Cash
+ORD10200,2025-04-04,Headphones,Accessories,West,4300.0,2,0.14,505.5,Corporate,Credit Card
+ORD10135,2025-04-05,Tablet,Electronics,East,82720.0,4,0.06,14810.4,Home Office,UPI
+ORD10201,2025-04-05,Tablet,Electronics,North,53460.0,3,0.19,9434.7,Home Office,UPI
+ORD10009,2025-04-05,Tablet,Electronics,East,21120.0,1,0.04,3788.4,Home Office,Credit Card
+ORD10195,2025-04-11,Tablet,Electronics,South,108900.0,5,0.01,19585.5,Corporate,Debit Card
+ORD10115,2025-04-11,Tablet,Electronics,North,80080.0,4,0.09,14295.6,Home Office,Cash
+ORD10238,2025-04-14,Mouse,Accessories,West,3600.0,5,0.2,418.5,Corporate,Debit Card
+ORD10049,2025-04-17,Mouse,Accessories,West,756.0,1,0.16,88.56,Consumer,UPI
+ORD10104,2025-04-19,Monitor,Electronics,North,22120.0,2,0.21,3893.4,Consumer,Credit Card
+ORD10078,2025-04-21,Monitor,Electronics,South,42560.0,4,0.24,7459.2,Consumer,Credit Card
+ORD10004,2025-04-21,Tablet,Electronics,East,18040.0,1,0.18,3187.8,Corporate,Credit Card
+ORD10110,2025-04-21,Tablet,Electronics,East,80080.0,4,0.09,14295.6,Corporate,UPI
+ORD10106,2025-04-21,Smartphone,Electronics,East,68600.0,2,0.02,12327.0,Corporate,Debit Card
+ORD10108,2025-04-21,Monitor,Electronics,North,52500.0,5,0.25,9187.5,Home Office,UPI
+ORD10129,2025-04-22,Monitor,Electronics,South,45360.0,4,0.19,8005.2,Corporate,UPI
+ORD10170,2025-04-23,Mouse,Accessories,South,720.0,1,0.2,83.7,Consumer,UPI
+ORD10058,2025-04-23,Laptop,Electronics,West,175500.0,3,0.1,31297.5,Consumer,Debit Card
+ORD10153,2025-04-28,Laptop,Electronics,North,257400.0,4,0.01,46293.0,Consumer,UPI
+ORD10164,2025-04-28,Monitor,Electronics,West,27440.0,2,0.02,4930.8,Home Office,UPI
+ORD10087,2025-04-29,Mouse,Accessories,North,720.0,1,0.2,83.7,Corporate,Debit Card
+ORD10044,2025-05-01,Smartwatch,Wearables,North,34650.0,5,0.01,6924.75,Consumer,Debit Card
+ORD10021,2025-05-02,Mouse,Accessories,East,1764.0,2,0.02,211.14,Consumer,UPI
+ORD10242,2025-05-05,Tablet,Electronics,East,83600.0,5,0.24,14652.0,Home Office,Credit Card
+ORD10094,2025-05-06,Mouse,Accessories,West,2808.0,4,0.22,325.08,Consumer,Credit Card
+ORD10064,2025-05-07,Laptop,Electronics,East,57850.0,1,0.11,10305.75,Home Office,Debit Card
+ORD10191,2025-05-10,Tablet,Electronics,West,34760.0,2,0.21,6118.2,Home Office,Cash
+ORD10230,2025-05-12,Keyboard,Accessories,South,9000.0,5,0.0,1080.0,Consumer,Cash
+ORD10162,2025-05-13,Laptop,Electronics,East,177450.0,3,0.09,31677.75,Home Office,Debit Card
+ORD10031,2025-05-13,Keyboard,Accessories,East,5472.0,4,0.24,630.72,Corporate,Debit Card
+ORD10152,2025-05-14,Headphones,Accessories,West,1925.0,1,0.23,222.38,Corporate,Credit Card
+ORD10138,2025-05-17,Laptop,Electronics,East,49400.0,1,0.24,8658.0,Corporate,Debit Card
+ORD10207,2025-05-17,Smartwatch,Wearables,East,21280.0,4,0.24,4155.2,Corporate,UPI
+ORD10187,2025-05-18,Smartphone,Electronics,North,119000.0,4,0.15,21105.0,Corporate,Debit Card
+ORD10179,2025-05-19,Laptop,Electronics,North,250250.0,5,0.23,43923.75,Home Office,Credit Card
+ORD10171,2025-05-20,Smartwatch,Wearables,West,5810.0,1,0.17,1144.15,Consumer,Cash
+ORD10175,2025-05-22,Smartwatch,Wearables,South,10640.0,2,0.24,2077.6,Consumer,UPI
+ORD10246,2025-05-23,Mouse,Accessories,South,2538.0,3,0.06,302.13,Home Office,Credit Card
+ORD10097,2025-05-25,Smartphone,Electronics,West,134400.0,4,0.04,24108.0,Corporate,UPI
+ORD10248,2025-05-25,Laptop,Electronics,East,48750.0,1,0.25,8531.25,Corporate,Debit Card
+ORD10105,2025-05-26,Smartphone,Electronics,West,57400.0,2,0.18,10143.0,Consumer,Cash
+ORD10125,2025-05-30,Keyboard,Accessories,North,5346.0,3,0.01,640.71,Consumer,Debit Card
+ORD10006,2025-05-31,Smartwatch,Wearables,South,20580.0,3,0.02,4109.7,Consumer,UPI
+ORD10136,2025-06-01,Keyboard,Accessories,East,4104.0,3,0.24,473.04,Consumer,UPI
+ORD10247,2025-06-02,Laptop,Electronics,South,289250.0,5,0.11,51528.75,Consumer,Cash
+ORD10072,2025-06-03,Smartphone,Electronics,West,54600.0,2,0.22,9597.0,Home Office,Credit Card
+ORD10017,2025-06-04,Monitor,Electronics,North,12180.0,1,0.13,2165.1,Home Office,Cash
+ORD10019,2025-06-09,Smartwatch,Wearables,West,23520.0,4,0.16,4636.8,Home Office,Credit Card
+ORD10183,2025-06-10,Mouse,Accessories,South,3276.0,4,0.09,388.26,Consumer,Debit Card
+ORD10225,2025-06-14,Smartphone,Electronics,South,141750.0,5,0.19,25016.25,Corporate,UPI
+ORD10190,2025-06-17,Mouse,Accessories,North,1422.0,2,0.21,164.97,Home Office,Cash
+ORD10026,2025-06-19,Mouse,Accessories,North,774.0,1,0.14,90.99,Corporate,Credit Card
+ORD10188,2025-06-21,Tablet,Electronics,North,59400.0,3,0.1,10593.0,Home Office,Debit Card
+ORD10160,2025-06-22,Monitor,Electronics,East,26600.0,2,0.05,4767.0,Consumer,Cash
+ORD10184,2025-06-27,Headphones,Accessories,South,10000.0,5,0.2,1162.5,Home Office,Cash
+ORD10241,2025-06-28,Smartphone,Electronics,North,136500.0,5,0.22,23992.5,Home Office,UPI
+ORD10061,2025-06-29,Headphones,Accessories,South,6825.0,3,0.09,808.88,Consumer,Credit Card
+ORD10117,2025-06-29,Laptop,Electronics,West,52650.0,1,0.19,9291.75,Home Office,UPI
+ORD10007,2025-07-02,Keyboard,Accessories,South,1584.0,1,0.12,186.84,Consumer,Debit Card
+ORD10012,2025-07-03,Tablet,Electronics,South,74800.0,4,0.15,13266.0,Home Office,Cash
+ORD10074,2025-07-06,Smartphone,Electronics,South,105000.0,3,0.0,18900.0,Corporate,Credit Card
+ORD10086,2025-07-11,Headphones,Accessories,South,6075.0,3,0.19,707.62,Home Office,UPI
+ORD10156,2025-07-13,Smartphone,Electronics,South,27300.0,1,0.22,4798.5,Home Office,Cash
+ORD10014,2025-07-14,Headphones,Accessories,West,2475.0,1,0.01,296.62,Consumer,Debit Card
+ORD10016,2025-07-14,Keyboard,Accessories,East,1512.0,1,0.16,177.12,Consumer,UPI
+ORD10127,2025-07-17,Smartphone,Electronics,South,169750.0,5,0.03,30476.25,Consumer,UPI
+ORD10089,2025-07-21,Monitor,Electronics,South,41160.0,3,0.02,7396.2,Corporate,UPI
+ORD10158,2025-07-22,Smartphone,Electronics,East,58800.0,2,0.16,10416.0,Home Office,Credit Card
+ORD10062,2025-07-26,Tablet,Electronics,East,67760.0,4,0.23,11893.2,Corporate,UPI
+ORD10099,2025-07-31,Mouse,Accessories,West,2295.0,3,0.15,269.32,Corporate,Cash
+ORD10167,2025-07-31,Smartwatch,Wearables,West,11620.0,2,0.17,2288.3,Corporate,UPI
+ORD10224,2025-08-01,Monitor,Electronics,North,27720.0,2,0.01,4985.4,Consumer,UPI
+ORD10066,2025-08-02,Smartphone,Electronics,West,56700.0,2,0.19,10006.5,Corporate,UPI
+ORD10045,2025-08-02,Monitor,Electronics,East,44800.0,4,0.2,7896.0,Corporate,Credit Card
+ORD10070,2025-08-04,Mouse,Accessories,East,711.0,1,0.21,82.48,Home Office,Debit Card
+ORD10038,2025-08-06,Laptop,Electronics,North,260000.0,4,0.0,46800.0,Consumer,UPI
+ORD10148,2025-08-08,Headphones,Accessories,South,2075.0,1,0.17,242.62,Corporate,Credit Card
+ORD10145,2025-08-11,Smartwatch,Wearables,West,5320.0,1,0.24,1038.8,Home Office,UPI
+ORD10168,2025-08-13,Tablet,Electronics,East,38280.0,2,0.13,6804.6,Corporate,Credit Card
+ORD10249,2025-08-13,Laptop,Electronics,South,286000.0,5,0.12,50895.0,Home Office,UPI
+ORD10120,2025-08-14,Keyboard,Accessories,East,4158.0,3,0.23,480.33,Consumer,UPI
+ORD10084,2025-08-15,Smartwatch,Wearables,East,32200.0,5,0.08,6398.0,Corporate,Credit Card
+ORD10107,2025-08-16,Mouse,Accessories,South,2646.0,3,0.02,316.71,Corporate,Credit Card
+ORD10143,2025-08-17,Monitor,Electronics,North,41160.0,3,0.02,7396.2,Consumer,Cash
+ORD10219,2025-08-17,Smartwatch,Wearables,South,18060.0,3,0.14,3567.9,Corporate,Cash
+ORD10123,2025-08-17,Smartphone,Electronics,South,105000.0,3,0.0,18900.0,Corporate,Credit Card
+ORD10092,2025-08-19,Monitor,Electronics,North,48160.0,4,0.14,8551.2,Corporate,Cash
+ORD10032,2025-08-21,Laptop,Electronics,North,292500.0,5,0.1,52162.5,Home Office,Credit Card
+ORD10103,2025-08-21,Smartphone,Electronics,West,171500.0,5,0.02,30817.5,Consumer,Debit Card
+ORD10001,2025-08-23,Tablet,Electronics,West,21780.0,1,0.01,3917.1,Consumer,Cash
+ORD10112,2025-08-24,Tablet,Electronics,North,66880.0,4,0.24,11721.6,Consumer,Cash
+ORD10205,2025-08-24,Monitor,Electronics,North,62300.0,5,0.11,11098.5,Home Office,Cash
+ORD10232,2025-08-25,Monitor,Electronics,North,23800.0,2,0.15,4221.0,Consumer,UPI
+ORD10079,2025-08-26,Tablet,Electronics,West,66880.0,4,0.24,11721.6,Corporate,UPI
+ORD10081,2025-08-27,Tablet,Electronics,East,36960.0,2,0.16,6547.2,Consumer,Cash
+ORD10046,2025-08-27,Monitor,Electronics,East,26040.0,2,0.07,4657.8,Corporate,Cash
+ORD10003,2025-08-28,Keyboard,Accessories,East,7110.0,5,0.21,824.85,Home Office,UPI
+ORD10140,2025-08-31,Laptop,Electronics,East,202800.0,4,0.22,35646.0,Consumer,UPI
+ORD10139,2025-09-04,Tablet,Electronics,North,87120.0,4,0.01,15668.4,Consumer,Debit Card
+ORD10005,2025-09-06,Headphones,Accessories,East,6600.0,3,0.12,778.5,Home Office,Debit Card
+ORD10042,2025-09-06,Tablet,Electronics,South,60720.0,3,0.08,10850.4,Consumer,Debit Card
+ORD10060,2025-09-10,Keyboard,Accessories,North,4374.0,3,0.19,509.49,Corporate,Credit Card
+ORD10056,2025-09-14,Monitor,Electronics,North,33600.0,3,0.2,5922.0,Home Office,Cash
+ORD10182,2025-09-16,Tablet,Electronics,East,21780.0,1,0.01,3917.1,Corporate,UPI
+ORD10186,2025-09-18,Keyboard,Accessories,South,1728.0,1,0.04,206.28,Corporate,UPI
+ORD10111,2025-09-21,Smartwatch,Wearables,South,5600.0,1,0.2,1099.0,Corporate,Debit Card
+ORD10198,2025-09-22,Monitor,Electronics,East,10500.0,1,0.25,1837.5,Consumer,Credit Card
+ORD10217,2025-09-24,Monitor,Electronics,North,48720.0,4,0.13,8660.4,Corporate,Debit Card
+ORD10220,2025-09-27,Tablet,Electronics,West,18920.0,1,0.14,3359.4,Home Office,Credit Card
+ORD10091,2025-09-30,Smartwatch,Wearables,North,20790.0,3,0.01,4154.85,Consumer,Cash
+ORD10197,2025-09-30,Smartphone,Electronics,West,56000.0,2,0.2,9870.0,Home Office,Cash
+ORD10082,2025-10-01,Monitor,Electronics,South,12460.0,1,0.11,2219.7,Home Office,UPI
+ORD10166,2025-10-02,Laptop,Electronics,East,97500.0,2,0.25,17062.5,Consumer,Credit Card
+ORD10023,2025-10-04,Smartphone,Electronics,West,34650.0,1,0.01,6231.75,Corporate,UPI
+ORD10126,2025-10-04,Smartwatch,Wearables,South,13580.0,2,0.03,2709.7,Corporate,Credit Card
+ORD10013,2025-10-08,Headphones,Accessories,West,6300.0,3,0.16,738.0,Home Office,Debit Card
+ORD10041,2025-10-09,Headphones,Accessories,North,7350.0,3,0.02,879.75,Home Office,Cash
+ORD10118,2025-10-09,Mouse,Accessories,North,774.0,1,0.14,90.99,Corporate,Debit Card
+ORD10222,2025-10-13,Headphones,Accessories,East,9000.0,4,0.1,1065.0,Home Office,Debit Card
+ORD10240,2025-10-15,Smartwatch,Wearables,West,29400.0,5,0.16,5796.0,Corporate,UPI
+ORD10124,2025-10-16,Tablet,Electronics,North,58080.0,3,0.12,10335.6,Consumer,Credit Card
+ORD10223,2025-10-18,Mouse,Accessories,South,1746.0,2,0.03,208.71,Corporate,UPI
+ORD10055,2025-10-19,Tablet,Electronics,North,71280.0,4,0.19,12579.6,Home Office,Cash
+ORD10178,2025-10-20,Headphones,Accessories,North,2250.0,1,0.1,266.25,Consumer,UPI
+ORD10083,2025-10-21,Keyboard,Accessories,South,6696.0,4,0.07,795.96,Consumer,UPI
+ORD10237,2025-10-22,Mouse,Accessories,East,3915.0,5,0.13,461.02,Consumer,UPI
+ORD10235,2025-10-23,Monitor,Electronics,South,21560.0,2,0.23,3784.2,Home Office,Cash
+ORD10211,2025-10-23,Tablet,Electronics,East,93500.0,5,0.15,16582.5,Consumer,UPI
+ORD10161,2025-10-27,Tablet,Electronics,South,38720.0,2,0.12,6890.4,Corporate,UPI
+ORD10095,2025-10-27,Mouse,Accessories,West,2457.0,3,0.09,291.2,Home Office,UPI
+ORD10039,2025-10-28,Laptop,Electronics,East,127400.0,2,0.02,22893.0,Home Office,Credit Card
+ORD10063,2025-10-30,Keyboard,Accessories,East,5688.0,4,0.21,659.88,Consumer,Debit Card
+ORD10202,2025-11-01,Smartwatch,Wearables,East,21280.0,4,0.24,4155.2,Home Office,Cash
+ORD10250,2025-11-05,Headphones,Accessories,South,9200.0,4,0.08,1092.0,Home Office,Debit Card
+ORD10137,2025-11-07,Laptop,Electronics,West,65000.0,1,0.0,11700.0,Home Office,Credit Card
+ORD10075,2025-11-08,Keyboard,Accessories,South,5544.0,4,0.23,640.44,Home Office,Credit Card
+ORD10121,2025-11-11,Smartwatch,Wearables,East,20370.0,3,0.03,4064.55,Consumer,Debit Card
+ORD10221,2025-11-12,Headphones,Accessories,West,5850.0,3,0.22,677.25,Consumer,Cash
+ORD10027,2025-11-13,Mouse,Accessories,North,2430.0,3,0.1,287.55,Home Office,Cash
+ORD10204,2025-11-14,Laptop,Electronics,West,61100.0,1,0.06,10939.5,Consumer,UPI
+ORD10133,2025-11-14,Laptop,Electronics,East,302250.0,5,0.07,54063.75,Home Office,Cash
+ORD10050,2025-11-15,Mouse,Accessories,West,2808.0,4,0.22,325.08,Home Office,UPI
+ORD10194,2025-11-15,Tablet,Electronics,West,40920.0,2,0.07,7319.4,Consumer,Cash
+ORD10212,2025-11-16,Tablet,Electronics,South,80080.0,4,0.09,14295.6,Home Office,Cash
+ORD10214,2025-11-16,Tablet,Electronics,South,73040.0,4,0.17,12922.8,Corporate,UPI
+ORD10176,2025-11-16,Mouse,Accessories,North,2214.0,3,0.18,258.39,Home Office,UPI
+ORD10119,2025-11-16,Smartwatch,Wearables,South,24920.0,4,0.11,4937.8,Consumer,Credit Card
+ORD10193,2025-11-17,Laptop,Electronics,North,58500.0,1,0.1,10432.5,Consumer,Credit Card
+ORD10147,2025-11-18,Headphones,Accessories,North,10500.0,5,0.16,1230.0,Corporate,Debit Card
+ORD10165,2025-11-20,Smartphone,Electronics,East,79800.0,3,0.24,13986.0,Corporate,Cash
+ORD10029,2025-11-22,Smartwatch,Wearables,North,12460.0,2,0.11,2468.9,Corporate,Credit Card
+ORD10163,2025-11-22,Smartwatch,Wearables,North,11900.0,2,0.15,2348.5,Consumer,UPI
+ORD10216,2025-11-24,Keyboard,Accessories,North,2916.0,2,0.19,339.66,Consumer,Credit Card
+ORD10236,2025-11-24,Monitor,Electronics,East,12740.0,1,0.09,2274.3,Home Office,UPI
+ORD10196,2025-11-25,Smartphone,Electronics,South,54600.0,2,0.22,9597.0,Consumer,UPI
+ORD10132,2025-11-27,Keyboard,Accessories,North,6552.0,4,0.09,776.52,Corporate,Debit Card
+ORD10181,2025-11-29,Keyboard,Accessories,East,3564.0,2,0.01,427.14,Home Office,Credit Card
+ORD10206,2025-11-30,Keyboard,Accessories,South,6984.0,4,0.03,834.84,Consumer,UPI
+ORD10157,2025-12-01,Tablet,Electronics,South,58740.0,3,0.11,10464.3,Home Office,Debit Card
+ORD10151,2025-12-01,Headphones,Accessories,East,8500.0,4,0.15,997.5,Corporate,Credit Card
+ORD10008,2025-12-02,Keyboard,Accessories,East,7920.0,5,0.12,934.2,Consumer,Cash
+ORD10053,2025-12-03,Headphones,Accessories,North,6975.0,3,0.07,829.12,Corporate,Cash
+ORD10227,2025-12-05,Keyboard,Accessories,East,7380.0,5,0.18,861.3,Home Office,Cash
+ORD10034,2025-12-12,Smartphone,Electronics,West,26950.0,1,0.23,4730.25,Corporate,Credit Card
+ORD10215,2025-12-15,Headphones,Accessories,North,10875.0,5,0.13,1280.62,Consumer,Debit Card
+ORD10131,2025-12-16,Monitor,Electronics,North,53200.0,5,0.24,9324.0,Corporate,Credit Card
+ORD10048,2025-12-16,Tablet,Electronics,North,18260.0,1,0.17,3230.7,Home Office,Credit Card
+ORD10134,2025-12-16,Keyboard,Accessories,South,4212.0,3,0.22,487.62,Consumer,Credit Card
+ORD10015,2025-12-18,Smartwatch,Wearables,East,25480.0,4,0.09,5058.2,Corporate,Cash
+ORD10243,2025-12-19,Monitor,Electronics,East,40320.0,3,0.04,7232.4,Corporate,Cash
+ORD10059,2025-12-21,Headphones,Accessories,West,4550.0,2,0.09,539.25,Corporate,UPI
+ORD10180,2025-12-22,Headphones,Accessories,North,7800.0,4,0.22,903.0,Home Office,Cash
+ORD10011,2025-12-26,Headphones,Accessories,West,4500.0,2,0.1,532.5,Home Office,Debit Card
+ORD10218,2025-12-27,Keyboard,Accessories,North,2844.0,2,0.21,329.94,Home Office,Cash
+ORD10080,2025-12-29,Monitor,Electronics,East,12040.0,1,0.14,2137.8,Consumer,UPI
+ORD10122,2025-12-31,Keyboard,Accessories,North,7920.0,5,0.12,934.2,Home Office,UPI
+ORD10071,2025-12-31,Smartphone,Electronics,North,32200.0,1,0.08,5754.0,Corporate,UPI
